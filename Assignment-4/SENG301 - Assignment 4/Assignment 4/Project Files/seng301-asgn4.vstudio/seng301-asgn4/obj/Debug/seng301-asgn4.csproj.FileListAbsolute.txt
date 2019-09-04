@@ -1,0 +1,7 @@
+C:\Users\adamb\OneDrive\Pictures\seng301-asgn4.vstudio\seng301-asgn4.vstudio\seng301-asgn4\obj\Debug\seng301-asgn4.csprojResolveAssemblyReference.cache
+C:\Users\adamb\OneDrive\Pictures\seng301-asgn4.vstudio\seng301-asgn4.vstudio\seng301-asgn4\bin\Debug\seng301-asgn4.dll.config
+C:\Users\adamb\OneDrive\Pictures\seng301-asgn4.vstudio\seng301-asgn4.vstudio\seng301-asgn4\bin\Debug\seng301-asgn4.dll
+C:\Users\adamb\OneDrive\Pictures\seng301-asgn4.vstudio\seng301-asgn4.vstudio\seng301-asgn4\bin\Debug\seng301-asgn4.pdb
+C:\Users\adamb\OneDrive\Pictures\seng301-asgn4.vstudio\seng301-asgn4.vstudio\seng301-asgn4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\adamb\OneDrive\Pictures\seng301-asgn4.vstudio\seng301-asgn4.vstudio\seng301-asgn4\obj\Debug\seng301-asgn4.dll
+C:\Users\adamb\OneDrive\Pictures\seng301-asgn4.vstudio\seng301-asgn4.vstudio\seng301-asgn4\obj\Debug\seng301-asgn4.pdb
